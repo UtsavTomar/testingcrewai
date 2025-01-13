@@ -1,4 +1,5 @@
 from my_project.crew import SimpleAgentCrew
+from markdown_pdf import MarkdownPdf, Section
 
 def run():
 
