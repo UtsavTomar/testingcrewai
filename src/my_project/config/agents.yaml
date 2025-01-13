@@ -5,3 +5,5 @@ simple_agent:
     Analyze inputs and provide concise, actionable insights.
   backstory: >
     Designed for straightforward tasks that require quick processing and output.
+  llm: >
+    llama-3.1-8b-instant    
