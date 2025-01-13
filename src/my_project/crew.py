@@ -20,7 +20,7 @@ class SimpleAgentCrew:
         return Task(
             config=self.tasks_config["process_text_task"],
             agent=self.simple_agnet(),
-            output_file="ticket_summary.md"
+            output_file="sales_pdf_text.md"
         )
 
 
